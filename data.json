@@ -2,7 +2,12 @@
   "projects": [
     {
       "name": "CV. Bahtera Tetap Jaya",
-      "preview_src": "",
+      "preview_src": "https://res.cloudinary.com/stevaninc/image/upload/v1677727561/portfolio/projects/btj_vf7lv7.png",
+      "status": "ON_GOING"
+    },
+     {
+      "name": "Catatin",
+      "preview_src": "https://res.cloudinary.com/stevaninc/image/upload/v1677727670/portfolio/projects/catatin_dotjxu.png",
       "status": "ON_GOING"
     }
   ]
